@@ -1,9 +1,12 @@
 # FinPilot AI — One-Click GitHub → Vercel
 
+[![Demo Video](https://img.shields.io/badge/Demo_Video-Google_Drive-FF5722?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1OQvqGT6N4lQDqZLVTk_-v6Sx3po2dtxD?usp=sharing)
+[![Project Documentation](https://img.shields.io/badge/Project_Document-Google_Drive-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](https://drive.google.com/drive/folders/1OQvqGT6N4lQDqZLVTk_-v6Sx3po2dtxD?usp=sharing)
+
 This repository is prepared as a single Vercel project containing:
 - `public/index.html` — responsive FinPilot frontend
 - `api/index.js` — Express API entrypoint deployed as a Vercel Function
-- `src/services/*` — Claude and Google Sheets integrations
+- `src/services/*` — Claude and Google Sheets integration
 - `src/validation.js` — request contracts
 - `vercel.json` — frontend/API routing
 - `.env.example` — required secrets template
